@@ -34,7 +34,7 @@ int num1, num2;
 
 Program 2
 #include <stdio.h>
-void main()
+int main()
 {
     int num;
     printf("Enter an  integer \n");
